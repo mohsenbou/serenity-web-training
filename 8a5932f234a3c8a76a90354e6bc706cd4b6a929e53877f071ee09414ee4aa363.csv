@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"When adding tasks","Adding a single task","SUCCESS","2022-09-08T15:54:41.810329598Z[Etc/UTC]","0.0","3.14"
-"When completing a task","Completed tasks should not show active tasks","SUCCESS","2022-09-08T15:54:42.637670665Z[Etc/UTC]","0.0","4.24"
+"When adding tasks","Adding a single task","SUCCESS","2022-09-19T15:51:40.712485436Z[Etc/UTC]","0.0","3.28"
+"When completing a task","Completed tasks should not show active tasks","SUCCESS","2022-09-19T15:51:41.560208174Z[Etc/UTC]","0.0","3.98"
